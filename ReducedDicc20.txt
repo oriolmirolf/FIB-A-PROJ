@@ -1,0 +1,21 @@
+Este es un subconjunto de palabras aleatorias del diccionario dracula-vocabulary-4.txt pasado por el Slack y que hemos usado para nuestra experimentación.
+sensibly
+puzzle
+emotion
+plating
+winked
+passes
+medicine
+wafer
+slit
+separate
+impulsively
+twinkled
+undertaker
+agreed
+american
+garments
+asleep
+outrider
+wharf
+dominance
