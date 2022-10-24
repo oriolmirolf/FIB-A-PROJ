@@ -7,6 +7,6 @@ Proyecto de la asignatura Algorismia, grado en Ingeniería Informática, FIB, UP
 - Joan Caballero Castro
 - Oriol Miró López-Feliu
 
-Nota = ?
+### Nota = ?
 
 
